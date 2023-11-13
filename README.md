@@ -29,7 +29,7 @@
 
 **Hello world frontend:** is the front end of a hello world app made with react and redux
 
- Backend link: https://github.com/yashodhicy/hello-react-front-end.git
+ Backend link: https://github.com/matee-safi/hello-world-backend
 
 ## 🛠 Built With <a name="built-with"></a>
 
